@@ -525,7 +525,7 @@ HTML = """
                 </div>
 
                 <div class="campo">
-                    <label>Título</label>
+                    <label>Causa</label>
                     <input
                         name="titulo"
                         maxlength="200"
